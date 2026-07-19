@@ -1,0 +1,7 @@
+# SudokuMaster runs entirely on the Python standard library (Tkinter, ttk,
+# wave, winsound/subprocess for sound, json, sqlite-free local storage).
+# No third-party packages are required to run the application.
+#
+# Pillow is listed only because the icon.ico asset was generated with it;
+# it is not imported anywhere in the application at runtime.
+Pillow>=10.0.0
