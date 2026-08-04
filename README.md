@@ -190,3 +190,6 @@ Built with the Python standard library — Tkinter/ttk for the interface, `wave`
 ## GitHub Topics
 
 `python` `tkinter` `sudoku` `desktop-app` `game-development` `puzzle-generator` `backtracking-algorithm` `gui` `portfolio-project`
+
+
+| @MR1229
